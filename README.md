@@ -34,4 +34,5 @@ We were able to retool our previous code to determine the percentage of the tota
 * Jefferson County had **10.5%** of the vote with **38,855** votes
 * Denver County had **82.8%** of the vote with **306,055** votes
 * Arapahoe County had **6.7%** of the vote with **24,801** votes
+
 From this we can conclude that ***Denver County*** had the highest percentage of the total voter turnout. Furthermore, our code can analyze additional input as necessary to be able to provide election results for any future elections held.
